@@ -1,0 +1,6 @@
+{
+  "name": "OfflineNav AI",
+  "description": "An offline-first emergency navigation and hazard intelligence platform designed for disaster resilience, accident prevention, and low-connectivity environments.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": []
+}
